@@ -1,7 +1,8 @@
 # BIO 410 Final Project
 ## Background
 The data is made up of 6 samples of the organism Ebola virus. It is a negative-sense single-stranded RNA virus that is responsible for causing the Ebola virus disease which results in hemorrhagic fever in humans and other primates. Ebola virus is under the Filoviridae family and is known to cause major outbreaks in Africa. The identification of the organism is based on BLAST sequence analysis in NCBI nucleotide.
-
+Reference:
+Feldmann H, Geisbert TW. 2011. Ebola haemorrhagic fever. Lancet. 377(9768):849-862.
 ## Purpose
 
 The purpose of this project is to develop a phylogenetic tree for the 6 samples of Ebola virus in order to be able to understand the evolutionary relationship among the samples and find out which ones are similar.
