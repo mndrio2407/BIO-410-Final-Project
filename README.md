@@ -12,7 +12,7 @@ Raw next-generation sequencing (NGS) reads were assembled using MEGAHIT. The ass
 
 The raw sequencing reads can be found in the original sequencing data directory, while the assembled sequences are in the MEGAHIT output directory. Alignment is saved as alignment.html and tree image is saved as tree.png.
 ## Results
-![Phylogenetic Tree](mytree.png)
+![Phylogenetic Tree](tree.png)
 The phylogenetic tree indicated that samples 2 and 3 were similar to each other and belonged to one cluster with sample 1. The similarity of samples 5 and 6 to each other was also evident, with sample 4 included into another cluster. This indicates that evolutional differences occurred between the samples of the Ebola virus.
 
 On the basis of the obtained phylogenetic tree, it can be stated that six samples belong to two different lineages of viruses, as there are two separate clusters of the tree.
